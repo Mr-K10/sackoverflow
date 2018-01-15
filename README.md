@@ -18,3 +18,8 @@ Reactjs
 	python manage.py migrate (migrating Auth and other predefined tables)
 	python manage.py runserver (Running the localserver)
 	
+	
+	
+## Installing any package in node_modules
+	npm install --save <name of the package>
+	
