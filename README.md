@@ -1,16 +1,18 @@
 # sackoverflow documentations
 
+## This project is under development, Don't expect much
+
 ## About
 This is an SPA(SINGLE PAGE APPLICATION) web app made by using routing deployed on HEROKU (with postgres database as an add-on), which is quite useful for the farmers as they can post their queries and the experts can answer them. A farmer can also log in and log out,view his dashboard.A farmer and an expert can also upvote the answers.
 
 ## Website Link: https://sackoverflow.herokuapp.com
 
 ## Technology Used:
-	Django 2.1(Python 3.6.4 framework) <br>
+	Django 2.1(Python 3.6.4 framework)
 	Reactjs
 	Materialize
 
-## Commands for running the project:
+## Commands for running the project[ONLY FOR HEROKU CONTRIBUTORS OF THIS PROJECT]:
 	python -m venv <venv name>
 	(where python is accessable command for python 3.6.4)
 	<venv name>\Scripts\activate(running the venv)
